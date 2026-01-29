@@ -88,7 +88,6 @@ Most predictions fall within a few pixels of ground truth.
 ## Installation
 Install required packages:
 
-```bash
 pip install -r requirements.txt
 
 Running the Notebook
@@ -100,11 +99,8 @@ jupyter notebook
 
 and run all cells sequentially.
 
-Possible Improvements
 
-
-
-Conclusion
+## Conclusion
 
 The assignment demonstrates how deep learning can solve regression tasks on spatial image data effectively using CNNs.
 
